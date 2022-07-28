@@ -1,0 +1,11 @@
+git config-- global user.name "gitHub user name"
+git config --global user.email "berk.batuhan595@gmail.com"
+git config -- glabal -l	
+
+
+
+[A[A
+
+
+[A[A[A[A
+[A[A[B
