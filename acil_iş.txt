@@ -1,0 +1,1 @@
+Bu kısımda bir önceki proje commit edilmeden bitirmemiz gereken bir başka proje üzerine çalışılacaktır.
